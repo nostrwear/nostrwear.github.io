@@ -896,12 +896,14 @@ a {
 .cid-tN4HlAhoIR .navbar .mbr-overlay {
   z-index: -1;
   transition: all .3s;
-  background: #ffffff;
+  background: #3b00cb;
+  background: linear-gradient(#000000, #3b00cb);
   background: none;
 }
 .cid-tN4HlAhoIR .navbar.opened .mbr-overlay {
   transition: all .3s;
-  background: #ffffff !important;
+  background: #3b00cb !important;
+  background: linear-gradient(#000000, #3b00cb) !important;
 }
 .cid-tN4HlAhoIR .navbar .dropdown-item {
   padding: .25rem 1.5rem;
@@ -1041,7 +1043,8 @@ a {
   min-height: 60px;
 }
 .cid-tN4HlAhoIR .navbar.navbar-short .mbr-overlay {
-  background: #ffffff !important;
+  background: #3b00cb !important;
+  background: linear-gradient(#000000, #3b00cb) !important;
 }
 .cid-tN4HlAhoIR .navbar.navbar-short .navbar-logo img {
   height: 3rem !important;
@@ -1079,7 +1082,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-tN4HlAhoIR .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #3b00cb;
 }
 .cid-tN4HlAhoIR .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
