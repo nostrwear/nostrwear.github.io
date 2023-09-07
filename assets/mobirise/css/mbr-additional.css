@@ -683,7 +683,7 @@ a {
   transition: color 0.6s;
 }
 .cid-tN4FCGOt97 {
-  background-image: url("../../../assets/images/giphy-16.gif");
+  background-color: #000000;
 }
 .cid-tN4FCGOt97 .row {
   flex-direction: row-reverse;
@@ -746,7 +746,7 @@ a {
 }
 .cid-tN4FCGOt97 .mbr-text {
   letter-spacing: inherit;
-  color: #000000;
+  color: #ffffff;
   width: 100%;
   margin-bottom: 16px;
 }
